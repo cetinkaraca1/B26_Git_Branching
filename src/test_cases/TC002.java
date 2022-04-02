@@ -5,4 +5,6 @@ public class TC002 {
     // first lines
 
     // second line
+
+    // third line
 }
