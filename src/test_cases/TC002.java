@@ -7,4 +7,6 @@ public class TC002 {
     // second line
 
     // third line
+
+    // fourth line
 }
